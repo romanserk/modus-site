@@ -1,8 +1,7 @@
 # modus-site
 
-At this project i practice my skills to create front end website by psd file from scratch.
-
-By using this [psd file](https://github.com/romanserk/modus-site/blob/master/modus.psd) descriptions i create *fully responsive* demo website.
+At this project i practice my skills to create front end website by psd file from scratch.<br>
+By using this [psd file](https://github.com/romanserk/modus-site/blob/master/modus.psd) descriptions i create *fully responsive* demo website.<br>
 Languages and technologies:
 
   - Bootstrap
