@@ -9,3 +9,9 @@ Languages and technologies:<p>
   <li>javascript</li>
   <li>CSS</li>
 </ul>
+
+The coverflow element was made by using <a href="http://idangero.us/swiper/api/" target="_blank"> swiper API</a>.<br>
+
+![Alt text](https://github.com/romanserk/modus-site/blob/master/images/coverflow-image.png?raw=true "swiper")
+
+
